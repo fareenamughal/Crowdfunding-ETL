@@ -29,6 +29,6 @@ This new assignment consists of four technical analysis deliverables as followin
 
 [email_contacts_remaining_goal_amount.csv](https://github.com/fareenamughal/Crowdfunding-ETL/blob/cd18ec1e89d8758d00890b4b83fb88b4abc7638f/Crowdfunding-ETL_Challenge/email_contacts_remaining_goal_amount.csv)
 
-[email_backers_remaining_goal_amount](https://github.com/fareenamughal/Crowdfunding-ETL/blob/cd18ec1e89d8758d00890b4b83fb88b4abc7638f/Crowdfunding-ETL_Challenge/email_backers_remaining_goal_amount.png)
+[email_backers_remaining_goal_amount.png](https://github.com/fareenamughal/Crowdfunding-ETL/blob/cd18ec1e89d8758d00890b4b83fb88b4abc7638f/Crowdfunding-ETL_Challenge/email_backers_remaining_goal_amount.png)
 
-[email_backers_remaining_goal_amount.csv](
+[email_backers_remaining_goal_amount.csv](https://github.com/fareenamughal/Crowdfunding-ETL/blob/fcfc282071f674c6fc1f1270656eb1f075d6c863/Crowdfunding-ETL_Challenge/email_backers_remaining_goal_amount.csv)
