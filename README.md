@@ -19,11 +19,11 @@ This new assignment consists of four technical analysis deliverables as followin
 
 [backers_df.csv](https://github.com/fareenamughal/Crowdfunding-ETL/blob/cd18ec1e89d8758d00890b4b83fb88b4abc7638f/Crowdfunding-ETL_Challenge/backers_df.csv)
 
-[backers_table}(https://github.com/fareenamughal/Crowdfunding-ETL/blob/cd18ec1e89d8758d00890b4b83fb88b4abc7638f/Crowdfunding-ETL_Challenge/backers_table.png)
+[backers_table](https://github.com/fareenamughal/Crowdfunding-ETL/blob/cd18ec1e89d8758d00890b4b83fb88b4abc7638f/Crowdfunding-ETL_Challenge/backers_table.png)
 
 [crowdfunding_db_relationships.png](https://github.com/fareenamughal/Crowdfunding-ETL/blob/cd18ec1e89d8758d00890b4b83fb88b4abc7638f/Crowdfunding-ETL_Challenge/crowdfunding_db_relationships.QDB.png)
 
-[crowdfunding_SQL_Analysis.sql] (https://github.com/fareenamughal/Crowdfunding-ETL/blob/cd18ec1e89d8758d00890b4b83fb88b4abc7638f/Crowdfunding-ETL_Challenge/crowdfunding_SQL_Anlaysis.sql)
+[crowdfunding_SQL_Analysis.sql](https://github.com/fareenamughal/Crowdfunding-ETL/blob/cd18ec1e89d8758d00890b4b83fb88b4abc7638f/Crowdfunding-ETL_Challenge/crowdfunding_SQL_Anlaysis.sql)
 
 [email_contacts_remaining_goal_amount.png](https://github.com/fareenamughal/Crowdfunding-ETL/blob/cd18ec1e89d8758d00890b4b83fb88b4abc7638f/Crowdfunding-ETL_Challenge/email_contacts_remaining_goal_amount.png)
 
