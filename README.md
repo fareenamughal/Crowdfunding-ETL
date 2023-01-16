@@ -13,3 +13,6 @@ This new assignment consists of four technical analysis deliverables as followin
 - Deliverable 2: Transform and Clean Data
 - Deliverable 3: Create an ERD and Table Schema, and Load Data
 - Deliverable 4: SQL Analysis
+
+
+[EXtract-Transform_Final_code.ipynd](https://github.com/fareenamughal/Crowdfunding-ETL/blob/1c8cb027efc0a5a49d99c4f30495402aa5c402de/Crowdfunding-ETL_Challenge/Extract-Transform_final_code.ipynb)
